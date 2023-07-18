@@ -3,4 +3,4 @@
 
 daemon_rotate = 10
 ldap_FS = '/ldap_home'
-script_path = '/home/mhafandi/Projects/python_project/daemon/execute.sh'
+script_path = '/execute.sh'
